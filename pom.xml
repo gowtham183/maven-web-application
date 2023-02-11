@@ -100,7 +100,11 @@
 	      <name>gowtham-project</name>
 	      <url>http://44.210.137.219:8081/repository/gowtham-pro/</url>
 	    </repository>
-		
+		<snapshotRepository>
+	      <id>nexus</id>
+	      <name>gowtham-snapshot</name>
+	      <url>http://44.210.137.219:8081/repository/gowtham-snapshot/</url>
+	    </snapshotRepository>
 	</distributionManagement>
 	
 	<build>
