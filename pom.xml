@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.0.101:9980/mithuntechnologies/repository/citibank-releases/</url>
+	      <name>gowtham-project</name>
+	      <url>http://3.89.123.77:8081/repository/gowtham-pro/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.0.101:9980/mithuntechnologies/repository/citibank-snapshot/</url>
+	      <name>gowtham-snapshot</name>
+	      <url>http://3.89.123.77:8081/repository/gowtham-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
